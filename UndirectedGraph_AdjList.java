@@ -42,7 +42,7 @@ class ImpGraph {
 
 }
 
-public class UndirectedGraph_WithAdjacencyList {
+public class UndirectedGraph_AdjList {
 
     public static void main(String[] args) {
         ImpGraph graph = new ImpGraph(6);
