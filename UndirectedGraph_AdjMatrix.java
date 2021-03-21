@@ -11,7 +11,7 @@ class Edge{
     }
 }
 
-public class WithAdjacencyMatrix {
+public class UndirectedGraph_AdjMatrix {
     public static void main(String[] args) {
         //num of vertexes
         int vertex = 5;
